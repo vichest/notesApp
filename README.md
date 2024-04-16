@@ -51,6 +51,5 @@ Create a new Pull Request
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgements
-[Any acknowledgements or credits...]
-Replace <screenshot_url_here> with the URL of a screenshot of your app if you have one. Fill in any other placeholders with appropriate information.
+<img width="1434" alt="Screenshot 2024-04-16 at 20 49 00" src="https://github.com/vichest/notesApp/assets/129871281/bc5d9779-7a22-41ee-aca4-3f2645a3cdce">
+<img width="1434" alt="Screenshot 2024-04-16 at 20 49 27" src="https://github.com/vichest/notesApp/assets/129871281/9cf882c7-5758-4a68-9bf1-ce92cdf61fcb">
