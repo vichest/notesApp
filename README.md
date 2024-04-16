@@ -1,4 +1,6 @@
 Notes CRUD App
+Deployment Address 
+https://notes-crudapp.vercel.app/
 
 Introduction
 This is a simple CRUD (Create, Read, Update, Delete) app built using React. It allows users to create, read, update, and delete notes. The app is deployed on Vercel and can be accessed here.
