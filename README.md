@@ -1,4 +1,4 @@
-Notes CRUD App
+Notes CRUD App:
 Deployment Address 
 https://notes-crudapp.vercel.app/
 
